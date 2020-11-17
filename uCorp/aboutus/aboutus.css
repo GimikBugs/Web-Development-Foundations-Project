@@ -11,6 +11,7 @@ p {
 }
 
 h2 {
+    color: orange;
     margin-top: 9px;
     font-weight: bold;
     font-size: 120%;
@@ -19,6 +20,7 @@ h2 {
 }
 
 h3 {
+    color: orange;
     margin-top: 17px;
     font-weight: bold;
     font-size: 100%;
@@ -35,12 +37,12 @@ h4 {
 }
 
 
-/*
+
 a 
 {
-color: #093
+color: #093;
 }
-*/
+
 
 img {
     border: 0;
