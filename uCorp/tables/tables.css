@@ -7,10 +7,12 @@ td,
 th {
     border: 1px solid gray;
 }
+
 td,
 th {
     padding: 15px;
 }
+
 td.center {
     text-align: center;
 }
